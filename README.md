@@ -1,1 +1,2 @@
-# SMIT_Assignment
+# Assignment_2
+ SMIT Assignment 
